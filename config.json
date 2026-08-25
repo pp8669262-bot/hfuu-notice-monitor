@@ -1,0 +1,13 @@
+{
+  "feishu_webhook": "https://open.feishu.cn/open-apis/bot/v2/hook/105a2bc0-80f1-4ee0-b4d2-9823c94f7870",
+  "feishu_secret": "",
+  "ai_api_key": "",
+  "ai_api_base": "https://ark.cn-beijing.volces.com/api/v3",
+  "ai_model": "doubao-1-5-pro-32k-250115",
+  "check_interval_minutes": 30,
+  "list_url": "http://www.hfuu.edu.cn/swx/1045/list.htm",
+  "base_url": "http://www.hfuu.edu.cn",
+  "seen_file": "seen_notices.json",
+  "log_file": "monitor.log",
+  "max_summary_length": 500
+}
